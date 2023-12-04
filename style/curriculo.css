@@ -129,6 +129,10 @@ body {
 }
 
 @media (max-width: 1024px) {
+        body {
+        font-size: 14px;
+    }
+
     .cabecalho {
         justify-content: center;
     }
@@ -139,10 +143,6 @@ body {
 }
 
 @media (max-width: 430px) {
-    body {
-        font-size: 14px;
-    }
-
     .apresentacao {
         padding: 2%;
     }
